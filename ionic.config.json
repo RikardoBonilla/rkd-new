@@ -1,0 +1,7 @@
+{
+  "name": "rkd-news",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
